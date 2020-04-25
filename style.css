@@ -7,7 +7,7 @@ body {
 header {
   text-align: center;
 }
-figure {
+#featured-property>img {
   text-align: center;
 }
 
